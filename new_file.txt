@@ -1,3 +1,9 @@
 git text
 
+<<<<<<< HEAD
 add
+=======
+writing at web
+>>>>>>> 59184eb3f3e9ba7de6e194aa7ee0b18f57f38b86
+
+local 
